@@ -25,8 +25,10 @@ I am responsible, hardworking. I can work as a team or one. Ready to devote a lo
 
 ## Code examples
 
-* [Hexal](https://musing-leavitt-c36d70.netlify.com/)
+* [Hexal](https://musing-leavitt-c36d70.netlify.com)
 * [NeutronMail](https://cranky-franklin-cc8979.netlify.com)
+* [Pallete](https://kind-poitras-d4df6f.netlify.com)
+* [Animation-player](https://sad-rosalind-297b0d.netlify.com)
 
 ## Experience
 
@@ -36,6 +38,7 @@ I am responsible, hardworking. I can work as a team or one. Ready to devote a lo
 * Belarusian National Technical University: Instrumentation Engineering Faculty. Electrician Engineer
 * finished HTML, CSS basic course at the [Codecademy.com](https://www.codecademy.com/users/pavelHitkovich8126154301/achievements)
 * finished [HTML](https://www.sololearn.com/Certificate/1014-5355510/pdf/) and [CSS](https://www.sololearn.com/Certificate/1023-5355510/pdf/) basic courses at the Sololearn.com
+* RS SCHOOL 2019Q1
 
 
 ## Foreign languages
