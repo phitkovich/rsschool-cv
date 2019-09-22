@@ -20,10 +20,13 @@ I am responsible, hardworking. I can work as a team or one. Ready to devote a lo
 * HTML
 * CSS
 * Git
+* Core JavaScript
 * Adobe Photoshop
 
 ## Code examples
 
+* [Hexal](https://musing-leavitt-c36d70.netlify.com/)
+* [NeutronMail](https://cranky-franklin-cc8979.netlify.com)
 
 ## Experience
 
